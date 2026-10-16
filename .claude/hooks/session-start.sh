@@ -35,3 +35,5 @@ fi
 
 npm install --no-audit --no-fund
 npm run build:cached
+
+"$CLAUDE_PROJECT_DIR/.claude/hooks/install-providers.sh"
